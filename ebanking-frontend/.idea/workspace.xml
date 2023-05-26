@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ed4540f-7243-40b6-9a0e-da06dec4acd8" name="Changes" comment="" />
+    <list default="true" id="3ed4540f-7243-40b6-9a0e-da06dec4acd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/dtos/CreditDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/dtos/DebitDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/dtos/TransferRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.development.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/EbankingBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/EbankingBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/repositories/AccountOperationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/repositories/AccountOperationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/services/BankAccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/services/BankAccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/web/BankAccountRestAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ebanking-backend/src/main/java/org/sid/ebankingbackend/web/BankAccountRestAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/accounts/accounts.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/accounts/accounts.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/customers/customers.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/customers/customers.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/customers/customers.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/customers/customers.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +95,7 @@
       <workItem from="1684788086294" duration="7296000" />
       <workItem from="1684962472994" duration="1603000" />
       <workItem from="1684964330875" duration="810000" />
-      <workItem from="1684965277558" duration="20543000" />
+      <workItem from="1684965277558" duration="25802000" />
     </task>
     <servers />
   </component>
