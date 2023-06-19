@@ -1,6 +1,6 @@
 <div class="container">
   <div class="card shadow col-md-6 offset-md-3 mt-5">
-    <div class="card-header bg-primary text-white">Edit Customer</div>
+    <div class="card-header">Edit Customer</div>
     <div class="card-body">
       <form [formGroup]="editCustomerFormGroup" (ngSubmit)="handleEditCustomer()">
         <div class="form-group">
@@ -35,7 +35,7 @@
         </div>
         <br>
         <div class="d-grid">
-          <button [disabled]="editCustomerFormGroup.invalid" class="btn btn-primary btn-lg rounded-end">Save</button>
+          <button [disabled]="editCustomerFormGroup.invalid" class="btn btn-info">Save</button>
         </div>
       </form>
     </div>
