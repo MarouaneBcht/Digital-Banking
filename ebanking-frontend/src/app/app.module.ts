@@ -11,6 +11,7 @@ import {CommonModule} from "@angular/common";
 import {ReactiveFormsModule} from "@angular/forms";
 import { NewCustomerComponent } from './new-customer/new-customer.component';
 import { CustomerAccountsComponent } from './customer-accounts/customer-accounts.component';
+import { EditCustomerComponent } from './edit-customer/edit-customer.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { CustomerAccountsComponent } from './customer-accounts/customer-accounts
     AccountsComponent,
     NewCustomerComponent,
     CustomerAccountsComponent,
+    EditCustomerComponent,
   ],
   imports: [
     BrowserModule,
